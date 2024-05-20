@@ -7,7 +7,7 @@
 
 <br>
 - CEA - [ANBIMA](https://www.anbima.com.br/pt_br/index.htm)
-- IA 900 Fundamentals Microsoft Azure - Microsoft Azure
+- IA 900 Fundamentals Microsoft Azure - [Microsoft Azure](https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification)
 
 <h3 align="left"> Graduated in:</h3>
 
@@ -17,7 +17,7 @@
 - Graduate in Production Engineering - UniFBV
 - Graduating in Data Science - UniFavip - Wyden
 
-<br>
+
 <img src= "https://user-images.githubusercontent.com/112359213/216747112-c4e96502-1e4e-4f7c-b005-573efcb80864.png" alt="112359213" height="35" width="40" /></a>  **cleriston.albuquerque@yahoo.com.br**
 
 <h3 align="left">Connect with me:</h3>
