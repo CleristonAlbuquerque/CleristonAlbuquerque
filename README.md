@@ -5,7 +5,6 @@
 
 <h3 align="left"> Professional Certification:</h3>
 
-<br>
 - CEA - [ANBIMA](https://www.anbima.com.br/pt_br/index.htm)
 - IA 900 Fundamentals Microsoft Azure - [Microsoft Azure](https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification)
 
@@ -40,7 +39,7 @@
 
 <h3 align="left">Tools:</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60" height="60" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="70" height="70" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="75" height="75" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original-wordmark.svg" width="75" height="75" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original-wordmark.svg" width="75" height="75" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="75" height="75" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original-wordmark.svg" width="75" height="75" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60" height="60" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="70" height="70" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="80" height="80" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original-wordmark.svg" width="80" height="80" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original-wordmark.svg" width="80" height="80" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="80" height="80" /> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original-wordmark.svg" width="80" height="80" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleristonAlbuquerque&theme=github_dark&show_icons=true) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CleristonAlbuquerque&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
